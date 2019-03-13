@@ -1,0 +1,9 @@
+1.git clone url
+2.git status
+3.git add .
+4.git commit -m 'homework'
+5.git config --gloabl user.name
+6.git config --gloabl user.email
+7.git commit -m 'mess'
+8.git push origin master
+
